@@ -1,2 +1,2 @@
 # notesapp-console
- notes application using command prompt
+ notes application using Nodejs command prompt
